@@ -1,0 +1,11 @@
+num_samples: 1000
+num_graphs: 100
+graph_type: ER
+mode: eval
+heuristic: True
+data:
+  edges_per_node: 4
+  num_nodes: [20, 60, 100, 140, 180, 220]
+  weight_range: [ '0.5, 1.5' , '0.25, 1.0']
+  noise_variance_range: [ '1.0, 1.0' ] # This is ignored for heurisitcs
+  data_gen_method: [ squires, mooij ]

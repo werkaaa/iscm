@@ -1,0 +1,10 @@
+num_samples: 1000000
+num_graphs: 1
+graph_type: schema
+mode: eval
+rff: False
+data:
+  graph_schema: ['triangle_system1.json', 'triangle_system2.json']
+  schema_has_weights: True
+  noise_variance_range: [ '1.0, 1.0' ]
+  data_gen_method: [ alternate ]

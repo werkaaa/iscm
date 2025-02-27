@@ -1,0 +1,167 @@
+notears__lambd=0.00-wthreshold=0.30:
+  lambda1: 0.0
+  w_threshold: 0.3
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.05-wthreshold=0.30:
+  lambda1: 0.05
+  w_threshold: 0.3
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.10-wthreshold=0.30:
+  lambda1: 0.10
+  w_threshold: 0.3
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.15-wthreshold=0.30:
+  lambda1: 0.15
+  w_threshold: 0.3
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.20-wthreshold=0.30:
+  lambda1: 0.20
+  w_threshold: 0.3
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.25-wthreshold=0.30:
+  lambda1: 0.25
+  w_threshold: 0.3
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.30-wthreshold=0.30:
+  lambda1: 0.30
+  w_threshold: 0.3
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.00-wthreshold=0.20:
+  lambda1: 0.0
+  w_threshold: 0.2
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.05-wthreshold=0.20:
+  lambda1: 0.05
+  w_threshold: 0.2
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.10-wthreshold=0.20:
+  lambda1: 0.10
+  w_threshold: 0.2
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.15-wthreshold=0.20:
+  lambda1: 0.15
+  w_threshold: 0.2
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.20-wthreshold=0.20:
+  lambda1: 0.20
+  w_threshold: 0.2
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.25-wthreshold=0.20:
+  lambda1: 0.25
+  w_threshold: 0.2
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.30-wthreshold=0.20:
+  lambda1: 0.30
+  w_threshold: 0.2
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.00-wthreshold=0.10:
+  lambda1: 0.0
+  w_threshold: 0.1
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.05-wthreshold=0.10:
+  lambda1: 0.05
+  w_threshold: 0.1
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.10-wthreshold=0.10:
+  lambda1: 0.10
+  w_threshold: 0.1
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.15-wthreshold=0.10:
+  lambda1: 0.15
+  w_threshold: 0.1
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.20-wthreshold=0.10:
+  lambda1: 0.20
+  w_threshold: 0.1
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.25-wthreshold=0.10:
+  lambda1: 0.25
+  w_threshold: 0.1
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+notears__lambd=0.30-wthreshold=0.10:
+  lambda1: 0.30
+  w_threshold: 0.1
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short

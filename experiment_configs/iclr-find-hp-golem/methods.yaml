@@ -1,0 +1,702 @@
+golem_ev__lambd1=0.02-lambd2=2.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.02
+  lambda_2: 2.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.02-lambd2=2.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.02
+  lambda_2: 2.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.02-lambd2=2.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.02
+  lambda_2: 2.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.02-lambd2=2.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.02
+  lambda_2: 2.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.02-lambd2=2.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.02
+  lambda_2: 2.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.02-lambd2=2.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.02
+  lambda_2: 2.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.02-lambd2=5.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.02
+  lambda_2: 5.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.02-lambd2=5.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.02
+  lambda_2: 5.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.02-lambd2=5.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.02
+  lambda_2: 5.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.02-lambd2=5.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.02
+  lambda_2: 5.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.02-lambd2=5.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.02
+  lambda_2: 5.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.02-lambd2=5.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.02
+  lambda_2: 5.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.02-lambd2=8.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.02
+  lambda_2: 8.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.02-lambd2=8.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.02
+  lambda_2: 8.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.02-lambd2=8.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.02
+  lambda_2: 8.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.02-lambd2=8.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.02
+  lambda_2: 8.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.02-lambd2=8.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.02
+  lambda_2: 8.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.02-lambd2=8.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.02
+  lambda_2: 8.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.002-lambd2=2.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.002
+  lambda_2: 2.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.002-lambd2=2.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.002
+  lambda_2: 2.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.002-lambd2=2.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.002
+  lambda_2: 2.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.002-lambd2=2.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.002
+  lambda_2: 2.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.002-lambd2=2.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.002
+  lambda_2: 2.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.002-lambd2=2.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.002
+  lambda_2: 2.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.002-lambd2=5.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.002
+  lambda_2: 5.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.002-lambd2=5.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.002
+  lambda_2: 5.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.002-lambd2=5.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.002
+  lambda_2: 5.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.002-lambd2=5.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.002
+  lambda_2: 5.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.002-lambd2=5.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.002
+  lambda_2: 5.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.002-lambd2=5.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.002
+  lambda_2: 5.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.002-lambd2=8.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.002
+  lambda_2: 8.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.002-lambd2=8.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.002
+  lambda_2: 8.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.002-lambd2=8.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.002
+  lambda_2: 8.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.002-lambd2=8.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.002
+  lambda_2: 8.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.002-lambd2=8.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.002
+  lambda_2: 8.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.002-lambd2=8.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.002
+  lambda_2: 8.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.0002-lambd2=2.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.0002
+  lambda_2: 2.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.0002-lambd2=2.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.0002
+  lambda_2: 2.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.0002-lambd2=2.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.0002
+  lambda_2: 2.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.0002-lambd2=2.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.0002
+  lambda_2: 2.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.0002-lambd2=2.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.0002
+  lambda_2: 2.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.0002-lambd2=2.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.0002
+  lambda_2: 2.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.0002-lambd2=5.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.0002
+  lambda_2: 5.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.0002-lambd2=5.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.0002
+  lambda_2: 5.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.0002-lambd2=5.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.0002
+  lambda_2: 5.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.0002-lambd2=5.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.0002
+  lambda_2: 5.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.0002-lambd2=5.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.0002
+  lambda_2: 5.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.0002-lambd2=5.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.0002
+  lambda_2: 5.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.0002-lambd2=8.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.0002
+  lambda_2: 8.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.0002-lambd2=8.0-lr=0.001-wthreshold=0.1:
+  lambda_1: 0.0002
+  lambda_2: 8.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.1
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.0002-lambd2=8.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.0002
+  lambda_2: 8.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.0002-lambd2=8.0-lr=0.001-wthreshold=0.2:
+  lambda_1: 0.0002
+  lambda_2: 8.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev__lambd1=0.0002-lambd2=8.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.0002
+  lambda_2: 8.0
+  equal_variances: True
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_nv__lambd1=0.0002-lambd2=8.0-lr=0.001-wthreshold=0.3:
+  lambda_1: 0.0002
+  lambda_2: 8.0
+  equal_variances: False
+  learning_rate:  0.001
+  w_threshold: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+

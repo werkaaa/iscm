@@ -1,0 +1,20 @@
+score__alpha=0.30:
+  alpha: 0.3
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: medium
+
+score__alpha=0.20:
+  alpha: 0.2
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: medium
+
+score__alpha=0.05:
+  alpha: 0.05
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: medium

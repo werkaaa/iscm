@@ -1,0 +1,6 @@
+r2_sortability:
+  __run__:
+    grouped: True
+    n_cpus: 1
+    n_gpus: 0
+    length: short

@@ -1,0 +1,26 @@
+pc__test=gaussian-alpha=0.01:
+  ci_test: gaussian
+  ci_alpha: 0.01
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: long
+    grouped: True
+
+pc__test=gaussian-alpha=0.001:
+  ci_test: gaussian
+  ci_alpha: 0.001
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: long
+    grouped: True
+
+pc__test=gaussian-alpha=0.0001:
+  ci_test: gaussian
+  ci_alpha: 0.0001
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: long
+    grouped: True

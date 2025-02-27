@@ -1,0 +1,23 @@
+notears:
+  # Best NOTEARS config after hp tuning
+  lambda1:
+    raw_w_0.5_2.0_n_1.0_1.0: 0.05
+    final_w_0.5_2.0_n_1.0_1.0: 0.10
+    alternate_w_0.5_2.0_n_1.0_1.0: 0.05
+
+  w_threshold:
+    raw_w_0.5_2.0_n_1.0_1.0: 0.3
+    final_w_0.5_2.0_n_1.0_1.0: 0.3
+    alternate_w_0.5_2.0_n_1.0_1.0: 0.3
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+
+var_sortability:
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True

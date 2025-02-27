@@ -1,0 +1,17 @@
+avici==1.0.4
+numpy==1.24.4
+sympy==1.10.1
+pandas==1.4.2
+matplotlib==3.5.2
+networkx==2.8.2
+seaborn==0.13.2
+scikit-learn==1.1.1
+CausalDisco==0.2.0
+igraph==0.11.3
+scipy==1.8.1
+tqdm==4.66.4
+python-igraph==0.11.3
+pyyaml==6.0.1
+pytz==2024.1
+tensorflow==2.17.0
+git+https://github.com/py-why/dodiscover.git@6e64456198a5b66e515f250a8f4b143ebc31c9a6

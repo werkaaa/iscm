@@ -1,0 +1,152 @@
+notears:
+  # Best NOTEARS config after hp tuning
+  lambda1:
+    raw: 0.15
+    final: 0.15
+    alternate: 0.15
+  w_threshold:
+    raw: 0.30
+    final: 0.10
+    alternate: 0.20
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+golem_ev:
+  # Best GOLEM-EV config after hp tuning
+  lambda_1:
+    raw: 0.020
+    final: 0.002
+    alternate: 0.020
+
+  lambda_2:
+    raw: 8.00
+    final: 8.00
+    alternate: 2.00
+
+  w_threshold:
+    raw: 0.30
+    final: 0.10
+    alternate: 0.10
+
+  equal_variances: True
+  learning_rate: 0.001
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    grouped_length: short
+    grouped: 2
+
+golem_nv:
+  # Best GOLEM-NV config after hp tuning
+  lambda_1:
+    raw: 0.002
+    final: 0.020
+    alternate: 0.020
+
+  lambda_2:
+    raw: 8.00
+    final: 2.00
+    alternate: 2.00
+
+  w_threshold:
+    raw: 0.20
+    final: 0.20
+    alternate: 0.10
+
+  equal_variances: False
+  learning_rate: 0.001
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    grouped_length: short
+    grouped: 2
+
+pc:
+  # Best PC config after hp tuning
+  ci_alpha:
+    raw: 0.01
+    final: 0.01
+    alternate: 0.01
+  ci_test:
+    raw: hsic_gamma
+    final: hsic_gamma
+    alternate: hsic_gamma
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: medium
+
+ges:
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+varsortregress:
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+
+r2sortregress:
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+randomsortregress:
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+avici:
+  model: rff
+  prob_threshold: 0.5
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    length: short
+    grouped: True
+
+#score:
+#  alpha: 0.05
+#
+#  __run__:
+#    n_cpus: 1
+#    n_gpus: 0
+#    grouped_length: short
+#    grouped: 2
+
+cam:
+  alpha:
+    raw: 0.05
+    final: 0.05
+    alternate: 0.05
+  nsplines:
+    raw: 10
+    final: 5
+    alternate: 5
+  degsplines:
+    raw: 2
+    final: 2
+    alternate: 2
+
+  __run__:
+    n_cpus: 1
+    n_gpus: 0
+    grouped_length: short
+    grouped: 2

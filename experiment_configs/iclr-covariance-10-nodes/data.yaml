@@ -1,0 +1,11 @@
+num_samples: 1000
+num_graphs: 100
+graph_type: schema
+mode: eval
+rff: False
+data:
+  graph_schema: 'chain_system_10_nodes.json'
+  schema_has_weights: False
+  weight_range: [ '0.5, 2.0' ]
+  noise_variance_range: [ '1.0, 1.0' ]
+  data_gen_method: [ final, alternate ]

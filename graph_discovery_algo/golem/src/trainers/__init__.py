@@ -1,0 +1,1 @@
+from graph_discovery_algo.golem.src.trainers.golem_trainer import GolemTrainer
