@@ -1,5 +1,7 @@
 # Standardizing Structural Causal Models
 
+[![PyPi](https://img.shields.io/pypi/v/iscm?logo=PyPI)](https://pypi.org/project/iscm/)
+
 This is the code repository for the paper Standardizing Structural Causal Models
 ([Ormaniec et al. 2025](https://openreview.net/forum?id=aXuWowhIYt&referrer=%5BAuthor%20Console%5D), ICLR 2025).
 
