@@ -16,8 +16,8 @@ To install the `iscm` library, run:
 pip install iscm
 ```
 
-The code snipped below shows how you can sample from an iSCM.
-```
+The code snippet below shows how you can sample from an iSCM.
+```python
 import numpy as np
 
 from iscm import data_sampler, graph_sampler
